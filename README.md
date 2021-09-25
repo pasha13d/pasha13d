@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mahabub Al-Islam (Pasha)
 - 👀 I’m interested in working on Software field
 - 🌱 I’m currently learning Flutter cross platform mobile app development
-- 💞️ I’m looking to collaborate on developing software
+- 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me mahabub13d1995@gmail.com
 
 <!---
